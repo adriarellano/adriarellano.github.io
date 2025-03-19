@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 ---
 
 I am a Quantitative Research Fellow at the [University College London](https://profiles.ucl.ac.uk/98707-adrian-arellano) within the Faculty of Education and Society. I also hold a position as a Senior Researcher at the Peace Research Institute Oslo ([PRIO](https://www.prio.org/)).
