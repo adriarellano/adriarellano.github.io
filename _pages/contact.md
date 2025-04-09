@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-### Email:
+Email:
 
 <script type="text/javascript">
   // Obfuscates the email address to prevent bots from scraping it.
@@ -14,7 +14,7 @@ nav_order: 3
   document.write('<a href="mailto:' + email + '">' + email + '</a>');
 </script>
 
-### Address:
+Address:
 
 20 Bedford Way, London, WC1H 0NS, United Kingdom
 
