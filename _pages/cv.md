@@ -6,6 +6,8 @@ nav: true
 nav_order: 2
 ---
 
-View CV [Here](https://www.dropbox.com/scl/fi/9i13iw0s8gt03vvnmph5f/Arellano_cv.pdf?rlkey=kxf2a0pi3npazkhsoja3rkb9y&st=w7lxu0od&dl=0)
+<iframe src="https://www.dropbox.com/scl/fi/9i13iw0s8gt03vvnmph5f/Arellano_cv.pdf?rlkey=kxf2a0pi3npazkhsoja3rkb9y&st=w7lxu0od&dl=0" 
+        width="100%" height="600px" style="border:none;">
+</iframe>
 
 ---
