@@ -7,6 +7,8 @@ nav_order: 1
 ---
 #### Education for Democracy Index (EfDI)
 
+<iframe src="https://adrianaarellano.github.io/efdi_map_all_index_22_16_09/" height="900" width="1000" style="border:none;"></iframe>
+
 **Under Review:**
 
 "The Education for Democracy Index: Measuring and Assessing the Democratic Performance of Education Systems" [with Bryony Hoskins and Jan Germen Janmaat]
@@ -16,6 +18,8 @@ nav_order: 1
 "Historical Antecedents of Educational Policies and Practices Supporting Democratic Competences" [with Bryony Hoskins and Jan Germen Janmaat]
 
 #### Legacy of Racial Violence
+
+<iframe src="https://adrianaarellano.github.io/lynch-map-redo-bbc-/" height="900" width="1000" style="border:none;"></iframe>
 
 **Publications:**
 
