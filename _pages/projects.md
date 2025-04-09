@@ -19,7 +19,7 @@ nav_order: 1
 
 #### Legacy of Racial Violence
 
-<iframe src="https://adrianaarellano.github.io/lynch-map-redo-bbc-/" height="900" width="1000" style="border:none;"></iframe>
+<iframe src="https://adrianaarellano.github.io/lynch-map-redo-bbc-/" height="600" width="1000" style="border:none;"></iframe>
 
 **Publications:**
 
