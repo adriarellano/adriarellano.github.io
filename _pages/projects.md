@@ -29,7 +29,7 @@ The LEGACY project seeks to address gaps in our understanding of the long-term e
 
 **Publications:**
 
-“Intergenerational Immobility: A Legacy of Racial Violence” *Security Studies* 32, no.4-5 (2023): 847-870.<https://doi.org/10.1080/09636412.2023.2256664>
+“Intergenerational Immobility: A Legacy of Racial Violence” *Security Studies* 32, no.4-5 (2023): 847-870. <https://doi.org/10.1080/09636412.2023.2256664>
 
 **Under Review:**
 
