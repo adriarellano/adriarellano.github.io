@@ -7,6 +7,8 @@ nav_order: 1
 ---
 #### Education for Democracy Index (EfDI)
 
+The Education for Democracy Index (EfDI) is a tool that measures how well a country’s educational policies and practices promote democratic competences (i.e. knowledge, skills, values, attitudes and behaviours). It is a comprehensive multidimensional index in that it captures not only the areas of education that are specifically intended to foster such competences, such as citizenship education, but also institutional characteristics, such as the degree of school autonomy that may have unintended consequences on these outcomes. For more information see the project's website:(EfDI)[https://educationfordemocracyindx.github.io/].
+
 <iframe src="https://adrianaarellano.github.io/efdi_map_all_index_22_16_09/" height="900" width="1000" style="border:none;"></iframe>
 
 **Under Review:**
@@ -18,6 +20,8 @@ nav_order: 1
 "Historical Antecedents of Educational Policies and Practices Supporting Democratic Competences" [with Bryony Hoskins and Jan Germen Janmaat]
 
 #### Legacy of Racial Violence
+
+The LEGACY project seeks to address gaps in our understanding of the long-term effects of past racial violence on contemporary communities – particularly economic, political, and health inequalities between, as well as within, Black and white communities in the United States. Of equal importance, we are interested in understanding how communities mitigate the long-term effects of racial violence. 
 
 <iframe src="https://adrianaarellano.github.io/lynch-map-redo-bbc-/" height="600" width="1000" style="border:none;"></iframe>
 
@@ -34,6 +38,8 @@ nav_order: 1
 "The legacy of racial violence on political trust" [with Helga Malmin Binningsbø]
 
 #### The Socioeconomics of Islamist Radicalization in the West (SOCIR)
+
+It is widely assumed among terrorism experts that poverty is not a cause of jihadi violence. However, new theory and evidence suggest that the poverty-terrorism link may operate differently in rich and poor countries, and that economic deprivation may affect radicalization more in wealthy societies.This project will test several sets of hypotheses about the link between economic deprivation and Islamist extremism in the West.
 
 **Publications:**
 
