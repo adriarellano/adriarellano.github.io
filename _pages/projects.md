@@ -52,4 +52,5 @@ It is widely assumed among terrorism experts that poverty is not a cause of jiha
 **Working papers:**
 1. "Radicalization in the West: The Role of Socioeconomic Status" [with Steffen Hertog, Thomas Hegghammer, and Gudrun Østby]
 2. "Migration status and Islamist radicalization in the West" [with Steffen Hertog, Thomas Hegghammer, and Gudrun Østby]
+
 ---
