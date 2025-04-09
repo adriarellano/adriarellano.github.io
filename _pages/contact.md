@@ -6,12 +6,15 @@ nav: true
 nav_order: 3
 ---
 
-email:
+### Email:
 
-a.arellano@ucl.ac.uk
+<script type="text/javascript">
+  // Obfuscates the email address to prevent bots from scraping it.
+  var email = "a.arellano" + "@" + "ucl.ac.uk";
+  document.write('<a href="mailto:' + email + '">' + email + '</a>');
+</script>
 
-address:
+### Address:
 
-20 Bedford Way, London WC1H 0NS
-
+20 Bedford Way, London, WC1H 0NS, United Kingdom
 ---
