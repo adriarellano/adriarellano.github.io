@@ -8,6 +8,6 @@ I am a Quantitative Research Fellow at the [University College London](https://p
 
 My research focuses on the causes and consequences of conflict, at the national and subnational level. My methodological areas of interest include mathematical/computational modeling, causal inference techniques, and content analysis.
 
-I received my PhD and M.A. from the Department of Political Science at the [University of Michigan](https://umich.edu/). I also hold a degree from the University of California, Davis (B.A.).
+I received my PhD and M.A. from the Department of Political Science at the [University of Michigan](https://umich.edu/). I also hold a degree from the [University of California, Davis](https://www.ucdavis.edu/) (B.A.).
 
 ---
