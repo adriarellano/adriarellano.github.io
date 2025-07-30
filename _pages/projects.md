@@ -7,7 +7,7 @@ nav_order: 1
 ---
 #### Education for Democracy Index (EfDI)
 
-The Education for Democracy Index (EfDI) is a tool that measures how well a country’s educational policies and practices promote democratic competences (i.e. knowledge, skills, values, attitudes and behaviours). It is a comprehensive multidimensional index in that it captures not only the areas of education that are specifically intended to foster such competences, such as citizenship education, but also institutional characteristics, such as the degree of school autonomy that may have unintended consequences on these outcomes. For more information see the project's website: [EfDI](https://educationfordemocracyindx.github.io/).
+The Education for Democracy Index (EfDI) is a tool that measures how well a country’s educational policies and practices promote democratic competences (i.e. knowledge, skills, values, attitudes and behaviours). It is a comprehensive multidimensional index in that it captures not only the areas of education that are specifically intended to foster such competences, such as citizenship education, but also institutional characteristics, such as the degree of school autonomy that may have unintended consequences on these outcomes. For more information see the project's website: [EfDI](https://educationfordemocracyindex.com/).
 
 <iframe src="https://adrianaarellano.github.io/efdi_map_all_index_22_16_09/" height="900" width="1000" style="border:none;"></iframe>
 
@@ -33,11 +33,13 @@ The LEGACY project seeks to address gaps in our understanding of the long-term e
 
 **Under Review:**
 
-“Collective Violence and Educational Attainment: A Legacy of the Red Summer”
+“Collective Violence and Educational Attainment: A Legacy of the Red Summer” [with Jonas Vestby]
 
 **Working papers:**
 
 "The legacy of racial violence on political trust" [with Helga Malmin Binningsbø]
+
+"Repression and Resilience: Long-Term Consequences of Racial Violence and the Mitigating Influence of Civic Institutions"
 
 ---
 
