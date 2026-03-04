@@ -20,11 +20,11 @@ The Education for Democracy Index (EfDI) is a tool that measures how well a coun
 
 **Under Review:**
 
-"The Education for Democracy Index: Measuring and Assessing the Democratic Performance of Education Systems" [with Bryony Hoskins and Jan Germen Janmaat]
+1. "The Education for Democracy Index: Measuring and Assessing the Democratic Performance of Education Systems" [with Bryony Hoskins and Jan Germen Janmaat]
 
-"Education for Democracy: Explaining Why Education Systems Differ in Fostering Democratic Competences" [with Bryony Hoskins and Jan Germen Janmaat]
+2. "Education for Democracy: Explaining Why Education Systems Differ in Fostering Democratic Competences" [with Bryony Hoskins and Jan Germen Janmaat]
 
-"Effectiveness and Inequality in the Whole School Approach to Civic Education across 24 countriess" [with Bryony Hoskins and Jan Germen Janmaat]
+3. "Effectiveness and Inequality in the Whole School Approach to Civic Education across 24 countriess" [with Bryony Hoskins and Jan Germen Janmaat]
 
 ---
 
@@ -40,13 +40,15 @@ The LEGACY project seeks to address gaps in our understanding of the long-term e
 
 **Under Review:**
 
-“Collective Violence and Educational Attainment: A Legacy of the Red Summer” [with Jonas Vestby]
+1. “Collective Violence and Educational Attainment: A Legacy of the Red Summer” [with Jonas Vestby]
+
+2. “The Long-Run Economic Consequences of Lynching in the United States"
 
 **Working papers:**
 
-"The legacy of racial violence on political trust" [with Helga Malmin Binningsbø]
+1. "The legacy of racial violence on political trust" [with Helga Malmin Binningsbø]
 
-"Repression and Resilience: Long-Term Consequences of Racial Violence and the Mitigating Influence of Civic Institutions"
+2. "The Long Reach of Jim Crow: White Migration and Racial Violence outside the South"
 
 ---
 
