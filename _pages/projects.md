@@ -5,6 +5,13 @@ title: Projects
 nav: true
 nav_order: 1
 ---
+
+#### Political Violence in Democracies
+
+This project examines the reciprocal relationship between democratic erosion and political violence in advanced democracies. At a time when democratic norms are under pressure and extremist rhetoric and violence are on the rise, we investigate two central questions: under what conditions do citizens support political violence, and how does political violence, in turn, shape democratic attitudes and institutions? Drawing on original survey experiments embedded in nationally representative samples across multiple Western democracies, combined with observational data on violent events, public opinion, voting behavior, and elite discourse, the project develops a novel theoretical framework linking elite narratives, citizen attitudes, and institutional change. By bridging research on democratic decline and the consequences of political violence, the project aims to provide rigorous, comparative evidence on how violence both reflects and reshapes the health of democratic systems. More information can be found [here](https://www.uu.se/en/department/peace-and-conflict-research/research/research-projects/political-violence-in-democracies).
+
+---
+
 #### Education for Democracy Index (EfDI)
 
 The Education for Democracy Index (EfDI) is a tool that measures how well a country’s educational policies and practices promote democratic competences (i.e. knowledge, skills, values, attitudes and behaviours). It is a comprehensive multidimensional index in that it captures not only the areas of education that are specifically intended to foster such competences, such as citizenship education, but also institutional characteristics, such as the degree of school autonomy that may have unintended consequences on these outcomes. For more information see the project's website: [EfDI](https://educationfordemocracyindex.com/).
@@ -15,9 +22,9 @@ The Education for Democracy Index (EfDI) is a tool that measures how well a coun
 
 "The Education for Democracy Index: Measuring and Assessing the Democratic Performance of Education Systems" [with Bryony Hoskins and Jan Germen Janmaat]
 
-**Working papers:**
+"Education for Democracy: Explaining Why Education Systems Differ in Fostering Democratic Competences" [with Bryony Hoskins and Jan Germen Janmaat]
 
-"Historical Antecedents of Educational Policies and Practices Supporting Democratic Competences" [with Bryony Hoskins and Jan Germen Janmaat]
+"Effectiveness and Inequality in the Whole School Approach to Civic Education across 24 countriess" [with Bryony Hoskins and Jan Germen Janmaat]
 
 ---
 
