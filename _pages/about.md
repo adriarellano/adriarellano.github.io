@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I am a Quantitative Research Fellow at the [University College London](https://profiles.ucl.ac.uk/98707-adrian-arellano) within the Faculty of Education and Society. I also hold a position as a Senior Researcher at the Peace Research Institute Oslo ([PRIO](https://www.prio.org/)).
+I am a Postdoctoral Fellow at [Uppsala University](https://www.uu.se/en/contact-and-organisation/staff?query=N25-2816) within the [Department of Peace and Conflict Research](https://www.uu.se/en/department/peace-and-conflict-research).
 
 My research focuses on the causes and consequences of political, social, and economic inequalities, at the national and subnational level. My methodological areas of interest include mathematical/computational modeling, causal inference techniques, and spatial statistics.
 
