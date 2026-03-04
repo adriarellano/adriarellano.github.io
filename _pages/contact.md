@@ -10,7 +10,7 @@ Email:
 
 <script type="text/javascript">
   // Obfuscates the email address to prevent bots from scraping it.
-  var email = "a.arellano" + "@" + "ucl.ac.uk";
+  var email = "adrian.arellano" + "@" + "pcr.uu.se";
   document.write('<a href="mailto:' + email + '">' + email + '</a>');
 </script>
 
@@ -18,6 +18,6 @@ Email:
 
 Address:
 
-20 Bedford Way, London, WC1H 0NS, United Kingdom
+Gamla Torget 3, 1tr, 753 20 Uppsala, Sweden
 
 ---
