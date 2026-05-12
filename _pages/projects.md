@@ -18,13 +18,15 @@ The Education for Democracy Index (EfDI) is a tool that measures how well a coun
 
 <iframe src="https://adrianaarellano.github.io/efdi_map_all_index_22_16_09/" height="900" width="1000" style="border:none;"></iframe>
 
+**Publications:**
+
+"Education for Democracy: a Review of Studies Examining the Effect of Education on Levels and Distributions of Democratic Competences," [with Jan Germen Janmaat and Bryony Hoskins] *Educational Research Review* (2026): 100792. <https://doi.org/10.1016/j.edurev.2026.100792>
+
 **Under Review:**
 
-1. "The Education for Democracy Index: Measuring and Assessing the Democratic Performance of Education Systems" [with Bryony Hoskins and Jan Germen Janmaat]
+1. "Education for Democracy: Explaining Why Education Systems Differ in Fostering Democratic Competences" [with Bryony Hoskins and Jan Germen Janmaat]
 
-2. "Education for Democracy: Explaining Why Education Systems Differ in Fostering Democratic Competences" [with Bryony Hoskins and Jan Germen Janmaat]
-
-3. "Effectiveness and Inequality in the Whole School Approach to Civic Education across 24 countriess" [with Bryony Hoskins and Jan Germen Janmaat]
+2. "Effectiveness and Inequality in the Whole School Approach to Civic Education across 24 countriess" [with Bryony Hoskins and Jan Germen Janmaat]
 
 ---
 
